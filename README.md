@@ -1,7 +1,11 @@
-### Hi there 👋
-#### Languages and Tools 
+<h1 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" height= 35 width = 35px> Hi 👋, I'm Kaveesha Elvitigala  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" height= 35 width = 35px></h1>
+<h3 align="center"> I am a Software Engineering Undergraduate at University of Westminster</h3>
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
+                width="28" /> My Tools</h2></summary>
 <p>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/python-5.svg" alt="Python"></code>
+  <code><img height="25" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma"></code>
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/git-icon.svg" alt="git"></code>
   <code><img height="22" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/terminal-1.svg" alt="terminal"></code>
   <code><img height="27" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/java-4.svg" alt="java"></code>
@@ -25,3 +29,9 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/kaveesha_ed) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kaveesha-elvitigala-92767818b)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kaveesha_ed/)
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
+                width="28" /> My Github Stats</h2> </summary>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaveesha-ed&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaveesha-ed&layout=compact&theme=dark" alt="top-langs" />
