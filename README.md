@@ -1,5 +1,8 @@
 <h1 align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" height= 35 width = 35px> Hi 👋, I'm Kaveesha Elvitigala  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" height= 35 width = 35px></h1>
 <h3 align="center"> I am a Software Engineering Undergraduate at University of Westminster</h3>
+<br><br>
+<p align="center" ><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="center"></p>
+<br><br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h2></summary>
