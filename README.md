@@ -33,7 +33,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kaveesha-elvitigala-92767818b)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kaveesha_ed/)
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
+<summary><h2><img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" align="center"
                 width="28" /> My Github Stats</h2> </summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaveesha-ed&theme=radical)
