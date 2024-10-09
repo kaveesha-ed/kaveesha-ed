@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaveesha Elvitigala </h1>
 <h3 align="center"> I am a Software Engineering Undergraduate at University of Westminster</h3>
 <br><br>
-<p align="center" ><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" align="center"></p>
+<p align="center" ><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" align="center"></p>
 <br><br>
 
 <summary><h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" align="center"
