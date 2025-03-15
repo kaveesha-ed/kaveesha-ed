@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaveesha Elvitigala </h1>
+<h1 align="center">Hi 👋, I'm Kaveesha Devindi</h1>
 <h3 align="center"> I am a Software Engineering Undergraduate at University of Westminster</h3>
 <br><br>
 <p align="center" ><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" align="center"></p>
